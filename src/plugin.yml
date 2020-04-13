@@ -1,0 +1,8 @@
+name: EasyTrade
+version: 0.1-Canary
+author: iyuwu
+main: iyuwu.EasyTrade.EasyTrade
+commands:
+  trade:
+    description: "The command of EasyTrade"
+    aliases: tr
